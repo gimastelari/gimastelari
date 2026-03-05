@@ -7,8 +7,8 @@
 
 ### 🔭 Current Projects
 - 🏃 Puzzles Marathon nonprofit tech platform
-- 🪞 Building an **AI Smart Mirror** 
-- 🚀 Building **The Market Mind** MVP (AI Marketing SaaS)
+- 🪞 AI Smart Mirror
+- 🚀 The Market Mind MVP (AI Marketing SaaS)
 
 <!--
 - 🔭 I’m currently working on ...
