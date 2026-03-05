@@ -1,10 +1,16 @@
 ## Hi, I'm Giovanna 👋 
 
+### 👩‍💻 About Me
+- 
+- 🎓 Computer Science & Mathematics @ Southern Connecticut State University
+- 🤖 Research in AI, Agents, & Multi-Agent Orchestration
+
+### 🔭 Current Projects
+- 🏃 Puzzles Marathon nonprofit tech platform
+- 🪞 Building an **AI Smart Mirror** 
+- 🚀 Building **The Market Mind** MVP (AI Marketing SaaS)
+
 <!--
-**gimastelari/gimastelari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
