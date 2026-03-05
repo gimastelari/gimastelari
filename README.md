@@ -10,6 +10,8 @@
 - 🪞 Building an **AI Smart Mirror** 
 - 🚀 Building **The Market Mind** MVP (AI Marketing SaaS)
 
+- ![Giovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimastelari&show_icons=true&theme=tokyonight)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
