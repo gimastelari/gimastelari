@@ -1,7 +1,7 @@
 ## Hi, I'm Giovanna 👋 
 
 ### 👩‍💻 About Me
-- 
+- 🌱 Software Engineering building products that are human-centered, community-driven, and impact-oriented
 - 🎓 Computer Science & Mathematics @ Southern Connecticut State University
 - 🤖 Research in AI, Agents, & Multi-Agent Orchestration
 
