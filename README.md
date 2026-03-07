@@ -9,6 +9,7 @@
 - 🏃 Puzzles Marathon nonprofit tech platform
 - 🪞 AI Smart Mirror
 - 🚀 The Market Mind MVP (AI Marketing SaaS)
+- 🖥️ My Freelancing & Consulting Website
 
 ### 🌱 Currently Learning 
 - 🛢️ DevOps (Docker & Kubernetes)
