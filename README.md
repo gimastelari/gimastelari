@@ -2,7 +2,7 @@
 
 ### 👩‍💻 About Me
 - 🌱 Software Engineer building products that are human-centered, community-driven, and impact-oriented
-- 💍 Digital Product Development and Operational Excellence in the Luxury Goods Industry
+- 💍 Digital Product Developer for Operational Excellence for luxury goods conglamerate (Richemont)
 - 🎓 Computer Science & Mathematics @ Southern Connecticut State University
 - 🤖 Research in AI, Agents, & Multi-Agent Orchestration
 
