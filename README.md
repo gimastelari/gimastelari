@@ -16,10 +16,16 @@
 - 🛢️ DevOps (Docker & Kubernetes)
 - ⛓️ LangChain, LangGraph, and LangSmith
 
+### 📫 How to Reach Me
+- Email: gimastelari@gmail.com
+- LinkedIn: Giovanna Mastelari
+- Website: giovannamastelari.com
+- Instagram: gimastelari
+- TikTok: gimastelari
+
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 -->
