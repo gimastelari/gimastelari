@@ -7,7 +7,8 @@
 - 🤖 Specializing in Automation, AI, Agents, & Multi-Agent Orchestration
 
 ### 🔭 Current Projects
-- 🏃 Puzzles Marathon nonprofit tech platform
+- 🏃 Puzzles Inc. Non-Profit Tech Platform
+- ♥️ The Young Women's Initiative Tech Platform
 - 🪞 AI Smart Mirror
 - 🚀 The Market Mind MVP (AI Marketing SaaS)
 - 🖥️ My Freelancing & Consulting Website
