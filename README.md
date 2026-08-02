@@ -23,6 +23,7 @@
 - Website: giovannamastelari.com
 - Instagram: gimastelari
 - TikTok: gimastelari
+- Substack: gimastelari
 
 <!--
 - 🔭 I’m currently working on ...
