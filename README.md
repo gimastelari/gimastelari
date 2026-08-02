@@ -4,7 +4,7 @@
 - 🌱 Software Engineer building products that are human-centered, community-driven, and impact-oriented
 - 💍 Software Developer for Operational Excellence in luxury goods conglamerate (Richemont)
 - 🎓 Computer Science & Mathematics @ Southern Connecticut State University
-- 🤖 Research in AI, Agents, & Multi-Agent Orchestration
+- 🤖 Specializing in Automation, AI, Agents, & Multi-Agent Orchestration
 
 ### 🔭 Current Projects
 - 🏃 Puzzles Marathon nonprofit tech platform
